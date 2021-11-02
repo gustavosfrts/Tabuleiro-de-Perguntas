@@ -1,7 +1,7 @@
 using Tabuleiro_de_Perguntas.Data.Entity;
 using Microsoft.EntityFrameworkCore;
 
-namespace CriaClickUpDevops.Data.Context
+namespace Tabuleiro_de_Perguntas.Data.Context
 {
     public class MyContext : DbContext
     {
