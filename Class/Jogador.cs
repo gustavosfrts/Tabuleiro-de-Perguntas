@@ -1,6 +1,6 @@
 using System;
 
-namespace JogadorNamespace
+namespace Tabuleiro_de_Perguntas.Class
 {
     class Jogador
     {
